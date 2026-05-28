@@ -36,3 +36,5 @@ coin_toss_game/
 │
 ├── main.py                      # Application entry point
 └── requirements.txt             # Third-party dependencies
+```
+<img width="3300" height="1800" alt="image" src="https://github.com/user-attachments/assets/f524c5fb-adc6-46d4-90ab-13c0f9b65ce3" />
